@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9ANo3T3TIDQ9828wDEqW8167o6hbdsuaIK012D2Ku6eBgTPM6C5GaNKrxzpfC5tT8FrAXs0a2bsrTXY5P5Vsg==",
+  "success": true,
+  "projectFilePath": "/workspaces/exerc-cios-c-/main.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.18/microsoft.netcore.app.host.linux-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

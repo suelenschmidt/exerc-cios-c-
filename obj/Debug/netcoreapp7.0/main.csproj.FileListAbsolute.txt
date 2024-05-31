@@ -1,0 +1,15 @@
+/workspaces/exerc-cios-c-/bin/Debug/netcoreapp7.0/main
+/workspaces/exerc-cios-c-/bin/Debug/netcoreapp7.0/main.deps.json
+/workspaces/exerc-cios-c-/bin/Debug/netcoreapp7.0/main.runtimeconfig.json
+/workspaces/exerc-cios-c-/bin/Debug/netcoreapp7.0/main.dll
+/workspaces/exerc-cios-c-/bin/Debug/netcoreapp7.0/main.pdb
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.AssemblyInfoInputs.cache
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.AssemblyInfo.cs
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.csproj.CoreCompileInputs.cache
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.sourcelink.json
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.dll
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/refint/main.dll
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.pdb
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/main.genruntimeconfig.cache
+/workspaces/exerc-cios-c-/obj/Debug/netcoreapp7.0/ref/main.dll
